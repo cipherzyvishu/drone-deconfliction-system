@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook checkpoints (if used later)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Logs or temp files
+*.log
+*.tmp
+
+# Python cache or test cache
+.pytest_cache/
+.cache/
+
+# Matplotlib cache
+.matplotlib/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+
+# VS Code Insiders settings (if separate)
+.vscode-insiders/
